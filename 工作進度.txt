@@ -1,0 +1,1 @@
+目前完成到31:30處 init_shop（網站所需table）and already migrate
