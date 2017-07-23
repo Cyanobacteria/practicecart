@@ -1,0 +1,5 @@
+2017.0724.0021
+使用
+gem 'will_paginate', '~> 3.1.0'
+取代
+gem 'will_paginate'
