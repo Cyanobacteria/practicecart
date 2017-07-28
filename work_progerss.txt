@@ -1,3 +1,5 @@
 目前完成到31:30處 init_shop（網站所需table）and already migrate
 
 目前完成到45:45處 完成db table and model relationship
+
+目前完成到1:11:00處 基本的controller willpaginate view設定
